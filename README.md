@@ -12,7 +12,7 @@
 
 ---
 
-### About Suryakshetra
+### About SOLIVITA CITY
 **SOLIVITA CITY** is a visionary city concept designed for sustainable, smart, and green urban living. It aims to provide modern infrastructure while preserving the environment and enhancing quality of life.
 
 ---
