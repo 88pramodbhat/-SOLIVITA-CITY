@@ -5,10 +5,10 @@
 ---
 
 ## Team Members
-- **Praveen Angadi** (548)  USN:01fe23bcs298
-- **Rohit** (546)           USN:01fe23bcs294
-- **Pramod** (547)          USN:01fe23bcs296
-- **Shivtej** (557)         USN:01fe23bcs422
+- **Praveen Angadi** (548)       :   USN:01fe23bcs298
+- **Rohit** (546)                :   USN:01fe23bcs294
+- **Pramod** (547)               :   USN:01fe23bcs296
+- **Shivtej** (557)              :  USN:01fe23bcs422
 
 ---
 SOLIVITA CITY LAND DISTRIBUTION AND BUDGET
